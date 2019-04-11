@@ -1,6 +1,7 @@
-# NLP-for-Ambulance-Calls
+# AmbulanceNLP
 
-# A program which takes in text and, using key words and ranks ambulance calls in order of importance and proximity using natural language processing
+## Ranks ambulance calls according to proximity and urgency using NLP to identify keywords from text.
+
 
 First, the program will input an ambulance call in the form of a csv (comma separated values) which features including latitude, longitude, description, etc. A couple examples I  used can be found below:
 https://data.cincinnati-oh.gov/Safer-Streets/Cincinnati-Fire-Incidents-CAD-including-EMS-ALS-BL/vnsz-a3wp/data
